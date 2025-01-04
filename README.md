@@ -45,7 +45,7 @@ Operational Efficiency: Provides insights to streamline routing and pricing stra
 The Goodcabs Analytics Dashboard equips Goodcabs with powerful insights to drive sustainable growth, enhance 
 customer loyalty, and optimize operations, ultimately supporting data-driven decision-making for future success.
 
-Live Dashboard: <ahttps://app.powerbi.com/view?r=eyJrIjoiM2Y3YzhkZDgtZWZjNS00MzRlLWE4NmYtNjYxOTY0YjNjMWVkIiwidCI6IjM4ZjYyOTI2LTc1NTktNGFlZi04NGFlLWNiNWUxNzI0MDZmYiJ9]>Dashboard</a>
+Live Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiM2Y3YzhkZDgtZWZjNS00MzRlLWE4NmYtNjYxOTY0YjNjMWVkIiwidCI6IjM4ZjYyOTI2LTc1NTktNGFlZi04NGFlLWNiNWUxNzI0MDZmYiJ9">Dashboard</a>
 
 
 
