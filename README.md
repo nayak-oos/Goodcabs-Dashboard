@@ -1,35 +1,35 @@
 # Goodcabs-Dashboard
-## Objective:
+# Objective:
 The Goodcabs Analytics Dashboard is designed to provide in-depth insights into the performance of Goodcabs in tier-2 cities across India. This data-driven tool helps improve driver performance, city expansion, customer behavior, and sustainability efforts.
 
 
 
-## Key Features & Insights:
+# Key Features & Insights:
 
 
-# Driver Performance Analysis
+## Driver Performance Analysis
 
 Tracks key metrics: trip completion rates, customer satisfaction, and revenue generation.
 Highlights high-performing drivers, with an average satisfaction rating of 4.7/5.
 
-# City-Wise Growth Trends
+## City-Wise Growth Trends
 
 Identifies high-growth cities like Lucknow, Jaipur, and Indore.
 Provides insights into cities with strong demand, guiding expansion strategies.
 
-# Customer Behavior & Loyalty
+## Customer Behavior & Loyalty
 
 Analyzes repeat booking trends and customer loyalty.
 Notably, new passengers tend to provide higher ratings than loyal riders.
 
-# Sustainability Metrics
+## Sustainability Metrics
 
 Monitors electric vehicle adoption in Goodcabs' fleet.
 Shows a 35% annual increase in EV adoption, supporting eco-friendly transportation.
 
-# External Influences
 
-##Technology Stack:
+
+## Technology Stack:
 
 Power BI: For creating dynamic, interactive dashboards.
 DAX (Data Analysis Expressions): For advanced calculations and custom metrics.
